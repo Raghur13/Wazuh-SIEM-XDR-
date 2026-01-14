@@ -1,4 +1,4 @@
-Wazuh-SIEM-XDR
+# Wazuh-SIEM-XDR
 Installing and setting up Wazuh SIEM &amp; XDR to anlayse security events and logs and responding to threats
 
 Wazuh seems like this open-source platform for security stuff, you know, it handles SIEM and XDR to keep an eye on threats. It watches over systems and endpoints, trying to spot anything weird and respond fast.
